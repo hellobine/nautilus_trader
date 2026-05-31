@@ -179,6 +179,9 @@ claude.config.json
 .continue/
 .review_scratch/
 superpowers/
+# QuantDeck 实施文档需要跟踪（spec/plan）
+!docs/superpowers/
+!docs/superpowers/**
 
 AGENTS.md
 CLAUDE.md
